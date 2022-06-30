@@ -77,7 +77,6 @@ html, body{
     display: flex;
     flex-direction: column;
     align-items: center;
-    
 }
 
 button{
@@ -103,15 +102,13 @@ button:hover{
 .btns{
     display: flex;
     flex-direction: column;
-    margin-top: 100px;
 }
 
 .logo{
     width: 190px;
     height: 180px;
-    position: fixed;
-    padding-right: 10px;
-    margin-top: -100px;    
+    padding-right: 10px;    
+    margin-top: -110px;
 }
 
 
