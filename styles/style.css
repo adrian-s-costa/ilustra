@@ -51,6 +51,8 @@ html, body{
     width: 100vw;
     height: 100vh;
     background-color: #f6fad5;
+    display: flex;
+    align-items: center;
 }
 
 .img1{
@@ -109,10 +111,9 @@ button:hover{
 }
 
 .logo{
-    width: 160px;
-    height: 150px;
+    width: 230px;
+    height: 220px;
     position: fixed;
-    margin-top: 80px;
     padding-right: 10px;    
 }
 
